@@ -1,4 +1,4 @@
-# freelancer-theme
+# my-page
 
 Welcome to the project documentation!
 

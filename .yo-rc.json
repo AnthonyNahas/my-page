@@ -3,7 +3,7 @@
     "version": "5.3.0",
     "props": {
       "location": "path",
-      "appName": "freelancer-theme",
+      "appName": "my-page",
       "target": ["web"],
       "pwa": true,
       "ui": "material",
@@ -14,7 +14,7 @@
       "analyticsProvider": "ga",
       "googleAnalyticsAccount": "",
       "prettier": true,
-      "projectName": "freelancer-theme",
+      "projectName": "my-page",
       "packageManager": "npm",
       "mobile": []
     }

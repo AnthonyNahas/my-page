@@ -45,7 +45,7 @@ const projects: Project[] = [
 export const DEFAULT_CONFIG: Config = {
   title: 'Angular Material Freenlancer Theme',
   description: 'Web Developer - Graphic Artist - User Experience Designer',
-  url: 'https://github.com/angular-material-extensions/freelancer-theme',
+  url: 'https://github.com/angular-material-extensions/my-page',
   domain: 'github.com',
   projects: projects,
   about:

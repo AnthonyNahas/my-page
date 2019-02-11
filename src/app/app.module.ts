@@ -21,7 +21,7 @@ import { NgxWebstorageModule } from 'ngx-webstorage';
 
 @NgModule({
   imports: [
-    BrowserModule.withServerTransition({ appId: 'freelancer-theme' }),
+    BrowserModule.withServerTransition({ appId: 'my-page' }),
     ServiceWorkerModule.register('./ngsw-worker.js', { enabled: environment.production }),
     NgxWebstorageModule.forRoot(),
     Angulartics2Module.forRoot(),
