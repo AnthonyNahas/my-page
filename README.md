@@ -4,29 +4,29 @@
    src="assets/angular-material-extensions-logo.svg">
 </p>
 
-# freelancer-theme
+# my-page
 
-[![npm demo](https://img.shields.io/badge/demo-online-ed1c46.svg)](https://angular-material-extensions.github.io/freelancer-theme)
+[![npm demo](https://img.shields.io/badge/demo-online-ed1c46.svg)](https://AnthonyNahas.github.io/my-page)
 [![Join the chat at https://gitter.im/angular-material-extensions/Lobby](https://badges.gitter.im/angular-material-extensions/Lobby.svg)](https://gitter.im/angular-material-extensions/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![codecov](https://codecov.io/gh/angular-material-extensions/freelancer-theme/branch/master/graph/badge.svg)](https://codecov.io/gh/angular-material-extensions/freelancer-theme)
-[![CircleCI branch](https://img.shields.io/circleci/project/github/angular-material-extensions/freelancer-theme/master.svg?label=circleci)](https://circleci.com/gh/angular-material-extensions/freelancer-theme)
-[![dependency Status](https://david-dm.org/angular-material-extensions/freelancer-theme/status.svg)](https://david-dm.org/angular-material-extensions/freelancer-theme)
-[![devDependency Status](https://david-dm.org/angular-material-extensions/freelancer-theme/dev-status.svg?branch=master)](https://david-dm.org/angular-material-extensions/freelancer-theme#info=devDependencies)
-[![Greenkeeper Badge](https://badges.greenkeeper.io/angular-material-extensions/freelancer-theme.svg)](https://greenkeeper.io/)
-[![license](https://img.shields.io/github/license/angular-material-extensions/freelancer-theme.svg?style=flat-square)](https://github.com/angular-material-extensions/freelancer-theme/blob/master/LICENSE)
-[![Greenkeeper badge](https://badges.greenkeeper.io/angular-material-extensions/freelancer-theme.svg)](https://greenkeeper.io/)
+[![codecov](https://codecov.io/gh/AnthonyNahas/my-page/branch/master/graph/badge.svg)](https://codecov.io/gh/AnthonyNahas/my-page)
+[![CircleCI branch](https://img.shields.io/circleci/project/github/AnthonyNahas/my-page/master.svg?label=circleci)](https://circleci.com/gh/AnthonyNahas/my-page)
+[![dependency Status](https://david-dm.org/AnthonyNahas/my-page/status.svg)](https://david-dm.org/AnthonyNahas/my-page)
+[![devDependency Status](https://david-dm.org/AnthonyNahas/my-page/dev-status.svg?branch=master)](https://david-dm.org/AnthonyNahas/my-page#info=devDependencies)
+[![Greenkeeper Badge](https://badges.greenkeeper.io/AnthonyNahas/my-page.svg)](https://greenkeeper.io/)
+[![license](https://img.shields.io/github/license/AnthonyNahas/my-page.svg?style=flat-square)](https://github.com/AnthonyNahas/my-page/blob/master/LICENSE)
+[![Greenkeeper badge](https://badges.greenkeeper.io/angular-material-extensions/my-page.svg)](https://greenkeeper.io/)
 
 <p align="center">
-  <img alt="@angular-material-extensions/freelancer-theme screenshot" style="text-align: center;"
+  <img alt="@angular-material-extensions/my-page screenshot" style="text-align: center;"
    src="assets/MDPI_SCREEN.png">
 </p>
 
 ## Built by and for developers :heart:
 
 Do you have any question or suggestion ? Please do not hesitate to contact us!
-Alternatively, provide a PR | open an appropriate issue [here](https://github.com/angular-material-extensions/freelancer-theme/issues)
+Alternatively, provide a PR | open an appropriate issue [here](https://github.com/AnthonyNahas/my-page/issues)
 
-If did you like this project, support [angular-material-extensions](https://github.com/angular-material-extensions)
+If did you like this project, support [AnthonyNahas](https://github.com/AnthonyNahas)
 by starring :star: and sharing it :loudspeaker:
 
 ## Table of Contents
@@ -40,9 +40,9 @@ by starring :star: and sharing it :loudspeaker:
 - [Support](#support)
 - [License](#license)
 
-## [Demo](https://angular-material-extensions.github.io/freelancer-theme)
+## [Demo](https://AnthonyNahas.github.io/my-page)
 
-View all the directives and components in action at [https://angular-material-extensions.github.io/freelancer-theme](https://angular-material-extensions.github.io/freelancer-theme)
+View all the directives and components in action at [https://AnthonyNahas.github.io/my-page](https://AnthonyNahas.github.io/my-page)
 
 <a name="getting-started"/>
 
@@ -51,13 +51,13 @@ View all the directives and components in action at [https://angular-material-ex
 1. Star this project then clone or fork the repository
 
 ```sh
-git clone https://github.com/angular-material-extensions/freelancer-theme.git
+git clone https://github.com/AnthonyNahas/my-page.git
 ```
 
 2. Go to project folder and install dependencies:
 
 ```sh
-cd freelancer-theme && npm install
+cd my-page && npm install
 ```
 
 3. Adapt the configuration file to suit your profile
@@ -215,7 +215,7 @@ Development, build and quality processes are based on [angular-cli](https://gith
 ## Support
 
 - Drop an email to: [Anthony Nahas](mailto:anthony.na@hotmail.de)
-- or open an appropriate [issue](https://github.com/angular-material-extensions/freelancer-theme/issues)
+- or open an appropriate [issue](https://github.com/AnthonyNahas/my-page/issues)
 - let us chat on [Gitter](https://gitter.im/angular-material-extensions/Lobby)
 
 Built by and for developers :heart: we will help you :punch:
