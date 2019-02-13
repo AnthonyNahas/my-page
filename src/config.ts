@@ -11,41 +11,57 @@ const exampleProjectDescription: string =
 
 const projects: Project[] = [
   {
-    name: 'project name',
+    name: 'ngx-auth-firebaseui',
     description: exampleProjectDescription,
     imageURL: 'assets/img/portfolio/cabin.png'
   },
   {
-    name: 'project name',
+    name: 'firebaseui/ng-bootstrap',
+    description: exampleProjectDescription,
+    imageURL: 'assets/img/portfolio/cabin.png'
+    // url : 'https://github.com/firebaseui/ng-bootstrap'
+  },
+  {
+    name: 'ngx-linkifyjs',
     description: exampleProjectDescription,
     imageURL: 'assets/img/portfolio/cake.png'
   },
   {
-    name: 'project name',
+    name: 'angular-material-extensions/password-strength',
     description: exampleProjectDescription,
     imageURL: 'assets/img/portfolio/circus.png'
   },
   {
-    name: 'project name',
+    name: 'angular-material-extensions/google-maps-autocomplete',
     description: exampleProjectDescription,
     imageURL: 'assets/img/portfolio/game.png'
   },
   {
-    name: 'project name',
+    name: 'angular-material-extensions/pages',
     description: exampleProjectDescription,
     imageURL: 'assets/img/portfolio/safe.png'
   },
   {
-    name: 'project name',
+    name: 'angular-material-extensions/link-preview',
+    description: exampleProjectDescription,
+    imageURL: 'assets/img/portfolio/submarine.png'
+  },
+  {
+    name: 'angular-material-extensions/contacts',
+    description: exampleProjectDescription,
+    imageURL: 'assets/img/portfolio/submarine.png'
+  },
+  {
+    name: 'angular-material-extensions/freelance-page',
     description: exampleProjectDescription,
     imageURL: 'assets/img/portfolio/submarine.png'
   }
 ];
 
 export const DEFAULT_CONFIG: Config = {
-  title: 'Angular Material Freenlancer Theme',
-  description: 'Web Developer - Graphic Artist - User Experience Designer',
-  url: 'https://github.com/angular-material-extensions/my-page',
+  title: 'Anthony Nahas',
+  description: 'Software - Backend - Frontend and Mobile App Developer',
+  url: 'https://github.com/AnthonyNahas/my-page',
   domain: 'github.com',
   projects: projects,
   about: {
@@ -59,7 +75,6 @@ export const DEFAULT_CONFIG: Config = {
       'is the perfect starting point!'
   },
   social: {
-    facebook: 'https://www.facebook.com/',
     twitter: 'https://twitter.com/ngAnthonyy',
     github: 'https://github.com/AnthonyNahas',
     linkedin: 'https://www.linkedin.com/in/anthony-nahas-926245119/'
@@ -67,9 +82,7 @@ export const DEFAULT_CONFIG: Config = {
   address: {
     country: 'Germany',
     state: 'Niedersachen',
-    city: 'Göttingen',
-    street: 'meine Strasse',
-    zip: '1234'
+    city: 'Göttingen'
   }
 };
 
