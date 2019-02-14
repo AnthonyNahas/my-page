@@ -1,0 +1,16 @@
+{
+  "name": "my-page",
+  "short_name": "my-page",
+  "theme_color": "#488aff",
+  "background_color": "#488aff",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/ngx-rocket-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
